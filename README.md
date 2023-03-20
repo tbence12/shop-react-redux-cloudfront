@@ -1,5 +1,8 @@
 # React-shop-cloudfront
 
+- [CloudFront](https://dzgcl5y3s1xqz.cloudfront.net/) - Deployed SPA
+- [S3](https://js-shop-react-redux-cloudfront.s3.eu-central-1.amazonaws.com/index.html) - AccessDenied
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
